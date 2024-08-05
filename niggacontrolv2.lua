@@ -1,13 +1,4 @@
-getgenv().Settings = {
-    ["HostID"]  = 876596840,
-    ["Prefix"]  = "/",
-    ["FPS"]     = 3
-};
-getgenv().Alts = {
-    3251813407,
-    123,
-    123,
-};
+
 
 game:GetService("RunService"):Set3dRenderingEnabled(true) -- Don't turn on with Emulator (ram will go up overtime)
 
